@@ -20,3 +20,19 @@ Cypress: Cypress is a JavaScript-based end-to-end testing framework for web appl
 Robot Framework: Robot Framework is an open-source, generic test automation framework that supports both web and mobile applications. It uses a keyword-driven approach and allows test cases to be written in a human-readable format. Robot Framework supports various test libraries and can be extended with custom keywords.
 
 These are just a few examples of the many automated testing tools available. The choice of tool depends on your project requirements, programming language, and the type of testing you need to perform.
+
+The automation test tools described above may be a great choice for your web-based project, but what implementing automation testing for mobile apps? Here are some nice testing tools according to the Katalon website.
+
+The Katalon Platform - an all-in-one automation testing tool for mobile, web, API, and desktop (Windows).
+
+Espresso - developed by Google, Espresso is also a test automation framework for This is a platform-specific solution with a flexible and straightforward API; however, it only runs Android UI tests and supports the enhancement of the functionalities.
+
+XCUI Test - a product of Apple for iOS developers to script and run UI tests with Xcode IDE. This automation framework is solely for iOS devices and doesn’t support Android systems. 
+
+Robotium - handles automated mobile testing for Android v1.6+ applications, both native and hybrid. The setup requires having Android SDK, Eclipse, Android Development Kit, and JDK ready.
+
+Selendroid - native and hybrid Android apps as well as mobile web can be tested using this tool. With robust WebDriver API and Selenium integration, it eliminates the majority of the current obstacles.
+
+iOS Driver - in comparison to real devices, this tool performs better on emulators. Using the Selenium/WebDriver API, iOS Driver can integrate iOS hybrid and native mobile apps with Selenium for testing.
+
+Xamarin.UITest - this tool is used for creating and running UI acceptance tests across iOS and Android applications on mobile devices. It enables the testing of both Xamarin apps and native apps: Xamarin for iOS, Apple’s iOS, Google’s Android platform.
