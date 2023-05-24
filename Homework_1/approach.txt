@@ -1,0 +1,2 @@
+There exist numerous approaches to automated testing. Usually, the approaches selected depend on the system under test.
+However, one of the most common approaches is to automated highly repeatble tests. This way, the manual QA team can have more time for more complex test cases and exploratory testing.
