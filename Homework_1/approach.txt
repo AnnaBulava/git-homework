@@ -1,2 +1,22 @@
 There exist numerous approaches to automated testing. Usually, the approaches selected depend on the system under test.
-However, one of the most common approaches is to automated highly repeatble tests. This way, the manual QA team can have more time for more complex test cases and exploratory testing.
+However, one of the most common approaches is to automated highly repeatble tests. This way, the manual QA team can have more time for more complex test cases and exploratory testing.There are several tools available for automated testing, depending on the specific needs and requirements of your project. Here are some popular tools for different types of automated testing:
+
+Selenium: Selenium is a widely used open-source tool for web application testing. It provides a framework for writing automated tests in various programming languages such as Java, C#, Python, etc. Selenium WebDriver allows you to automate interactions with web browsers.
+
+Appium: Appium is an open-source tool for automating mobile applications across different platforms, including iOS and Android. It supports various programming languages and allows you to write tests using standard automation APIs.
+
+JUnit: JUnit is a popular testing framework for Java applications. It provides annotations and assertions for writing unit tests. JUnit can be integrated with build tools like Maven or Gradle and various development environments.
+
+TestNG: TestNG is another testing framework for Java applications that offers more advanced features than JUnit. It supports functional, integration, and end-to-end testing and provides features like parallel test execution, data-driven testing, and test configuration through XML files.
+
+Cucumber: Cucumber is a tool that supports behavior-driven development (BDD). It allows you to write tests in a human-readable format using Gherkin syntax. Cucumber tests can be written in various programming languages and can serve as living documentation for your application.
+
+JMeter: JMeter is a popular tool for performance testing and load testing of web applications. It can simulate a large number of users and measure the performance of your application under different load conditions. JMeter supports various protocols like HTTP, HTTPS, FTP, etc.
+
+Postman: Postman is a widely used tool for API testing. It provides a user-friendly interface for sending HTTP requests, validating responses, and creating automated test scripts. Postman supports various authentication methods, testing environments, and integrations with other tools.
+
+Cypress: Cypress is a JavaScript-based end-to-end testing framework for web applications. It provides a simple and intuitive syntax for writing tests and offers features like automatic waiting, real-time reloading, and easy debugging.
+
+Robot Framework: Robot Framework is an open-source, generic test automation framework that supports both web and mobile applications. It uses a keyword-driven approach and allows test cases to be written in a human-readable format. Robot Framework supports various test libraries and can be extended with custom keywords.
+
+These are just a few examples of the many automated testing tools available. The choice of tool depends on your project requirements, programming language, and the type of testing you need to perform.
