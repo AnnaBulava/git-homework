@@ -1,5 +1,7 @@
 There exist numerous approaches to automated testing. Usually, the approaches selected depend on the system under test.
-However, one of the most common approaches is to automated highly repeatble tests. This way, the manual QA team can have more time for more complex test cases and exploratory testing.There are several tools available for automated testing, depending on the specific needs and requirements of your project. Here are some popular tools for different types of automated testing:
+One commonly adopted strategy involves automating highly repetitive tests, allowing the manual QA team to allocate more time to tackle complex test cases and engage in exploratory testing. This approach optimizes the efforts of the team by automating repetitive tasks, freeing up valuable resources for more in-depth and exploratory testing activities.
+
+There are several tools available for automated testing, depending on the specific needs and requirements of your project. Here are some popular tools for different types of automated testing:
 
 Selenium: Selenium is a widely used open-source tool for web application testing. It provides a framework for writing automated tests in various programming languages such as Java, C#, Python, etc. Selenium WebDriver allows you to automate interactions with web browsers.
 
